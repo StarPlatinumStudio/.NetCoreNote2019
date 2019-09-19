@@ -1,0 +1,14 @@
+D:\.Net2019\project\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+D:\.Net2019\project\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+D:\.Net2019\project\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+D:\.Net2019\project\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+D:\.Net2019\project\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorAssemblyInfo.cache
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorAssemblyInfo.cs
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorTargetAssemblyInfo.cache
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+D:\.Net2019\project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
